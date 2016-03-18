@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_f3b47fe25f615e698f1ca4607ae360483f6797a9.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb69962871330a97ed63e235ca8f5ac23e90fa10">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\classes_2a9ceb44b50694516487cd95fdc2e1ce7c40704b.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_8351341ed8fcfa9a2e3360a2e27eae537eec4c90.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_630d4f68c7997227f1904254f30bdc9e1de4bf0f.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="75391a76bb6f9921ebabb9ba34bb78a938030b3e">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run_f4638292dc6c6705ad6628059dba47adf75c1c7e.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0_31069f2f417ed11401c182d31e2c70c2d1980317.jar" />
+    </item>
+    <item
+        jar="F:\frameworks\DragLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\frameworks\DragLayoutDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_8247c75c8f81d8ad689119186fe47e27ddcd7ed4.jar" />
+    </item>
+
+</items>

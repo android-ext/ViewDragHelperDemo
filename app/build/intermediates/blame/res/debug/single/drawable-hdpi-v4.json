@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\frameworks\\DragLayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shadow.9.png",
+        "source": "F:\\frameworks\\DragLayoutDemo\\app\\src\\main\\res\\drawable-hdpi\\shadow.9.png"
+    },
+    {
+        "merged": "F:\\frameworks\\DragLayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_face.9.png",
+        "source": "F:\\frameworks\\DragLayoutDemo\\app\\src\\main\\res\\drawable-hdpi\\default_face.9.png"
+    },
+    {
+        "merged": "F:\\frameworks\\DragLayoutDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "F:\\frameworks\\DragLayoutDemo\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    }
+]
