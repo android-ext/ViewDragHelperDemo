@@ -1,2 +1,2 @@
-# ViewDragHelperDemo
-# ViewDragHelperDemo
+仿扣扣5.0左滑出现菜单
+使用了ViewDragHelper
